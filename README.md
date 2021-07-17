@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @VivaanBaid
-- 👀 I’m interested in iOS Decelopment
-- 🌱 I’m currently learning SWIFTUI
-- 💞️ I’m looking to collaborate on iOS development projects
-- 📫 How to reach me vb124@duke.edu
+- 👀 Passionate software engineer with a particular interest in iOS development
+- 🌱 Learning Swift UI
+- 💞️ Always looking to collaborate
 
 Incoming freshmen at Duke University.
 
