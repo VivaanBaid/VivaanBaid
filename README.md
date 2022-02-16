@@ -3,7 +3,7 @@
 - 🌱 Learning Swift UI
 - 💞️ Always looking to collaborate
 
-Incoming freshmen at Duke University.
+Freshman at Duke University.
 
 <!---
 VivaanBaid/VivaanBaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
