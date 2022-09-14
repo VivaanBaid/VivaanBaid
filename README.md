@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @VivaanBaid
 - 👀 Passionate software engineer with a particular interest in iOS development
-- 🌱 Learning Swift UI
 - 💞️ Always looking to collaborate
 
-Freshman at Duke University.
+Sophmore at Duke University.
 
 <!---
 VivaanBaid/VivaanBaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
